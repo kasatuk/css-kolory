@@ -4,10 +4,10 @@ body{
 h1{
     color: #ff0000;
 }
-p1{
+p:nth-child(1){
     color: #a42423;
 }
-p2{
+p{
     color: #00008f;
 }
 
